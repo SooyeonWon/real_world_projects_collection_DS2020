@@ -2,3 +2,4 @@
 #### by Sooyeon Won 
 
 1. Price Forecasting for Automobile / Linear Regression
+2. Basic Neural Network using numpy / Simple Linear Regression
