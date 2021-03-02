@@ -6,3 +6,4 @@
 3. TensorFlow Practice 1 / Simple Linear Regression
 4. TensorFlow Practice 2 / MNIST
 5. Deep Learning Case Study for Audiobooks using Tensorflow 2
+6. Machine Learning Case Study for Absenteeism / Logistic Regression - Model Deployment
